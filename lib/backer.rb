@@ -11,6 +11,7 @@ end
 
 def backed_projects(project)
   @backed_projects << projects
+  project.backers << self
 end
 
 
