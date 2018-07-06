@@ -1,6 +1,6 @@
 class Backer
 
-  attr_accessor 
+  attr_accessor :name 
   attr_reader :name
 
 
