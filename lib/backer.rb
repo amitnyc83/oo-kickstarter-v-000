@@ -1,11 +1,12 @@
 class Backer
 
-  attr_accessor :name 
-  attr_reader :name
+  attr_accessor :name
+  
 
 
 def initialize
   @name = name
+  @
 end
 
 
